@@ -1,0 +1,13 @@
+numpy
+nltk
+faiss-cpu
+streamlit
+PyPDF2
+pandas
+matplotlib
+transformers
+sentence-transformers
+torch
+python-dotenv
+pytest
+requests  # For Hugging Face API calls
