@@ -70,14 +70,7 @@ nexa-hr-chatbot/
 
 Watch the demo tutorial video, to see NEXA in action:
 
-[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=2PTAVqWwaKY)
-
-1. General QnA Chatbot for HR-related queries
-
-3. Sample documents are in the `data` directory
-4. Chatbot uses information from the sample documents. 
-
-6. Robust logging system for debugging.
+[![Watch the video](https://img.youtube.com/vi/2PTAVqWwaKY/0.jpg)](https://www.youtube.com/embed/2PTAVqWwaKY)
 
 ---
 
