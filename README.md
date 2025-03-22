@@ -1,3 +1,7 @@
+
+
+--- 
+
 # NEXA HR Chatbot
 
 NEXA HR Chatbot is a Streamlit-based application designed to assist HR teams by leveraging pre-trained language models (LLMs) and FAISS for efficient document-based question answering. This chatbot provides quick and accurate responses to HR-related queries by indexing and searching through HR documents.
@@ -6,12 +10,12 @@ NEXA HR Chatbot is a Streamlit-based application designed to assist HR teams by 
 
 ## Features
 
-- **Document-Based Q&A**: Uses FAISS for fast and scalable document indexing and retrieval.
+- **Document-Based Q&A**: Uses FAISS for fast and scalable document indexing and retrieval. Can add documents to expand chatbot's knowledge base (optional)
 - **Pre-trained LLMs**: Integrates with Hugging Face models for natural language understanding.
 - **Streamlit Interface**: User-friendly web interface for seamless interaction.
 - **Customizable**: Easily configurable to adapt to different HR datasets.
 - **Logging**: Comprehensive logging for debugging and monitoring.
-
+- **Custom Scripts**: Scripts available to generate your own training data, and validate your HuggingFace API Key.
 ---
 
 ## Project Structure
@@ -62,13 +66,17 @@ nexa-hr-chatbot/
 
 ---
 
-## Features
+## Demo Video
+
+Watch the demo tutorial video, to see NEXA in action:
+
+[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=2PTAVqWwaKY)
 
 1. General QnA Chatbot for HR-related queries
-2. Can add documents to expand chatbot's knowledge base (optional)
+
 3. Sample documents are in the `data` directory
 4. Chatbot uses information from the sample documents. 
-5. Script available to generate your own training data
+
 6. Robust logging system for debugging.
 
 ---
