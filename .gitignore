@@ -1,5 +1,5 @@
 # Ignore environment files
-api/api.env
+api/*.env
 
 # Ignore virtual environment
 venv/
