@@ -93,7 +93,7 @@ https://github.com/user-attachments/assets/de4e0c95-231b-4618-9dea-3b9c900d6803
 
 ## Logging
 
-Logs are stored in the `logs/` directory. The logging configuration can be customized in `logging_config.json`.
+Logs are stored in the `logs/` directory. NEXA generates logs for every session.
 
 ---
 
