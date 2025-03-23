@@ -71,6 +71,7 @@ nexa-hr-chatbot/
 Watch the [demo video](https://youtu.be/2PTAVqWwaKY), to see NEXA in action. 
 
 https://github.com/user-attachments/assets/de4e0c95-231b-4618-9dea-3b9c900d6803
+
 ---
 
 ## Configuration
