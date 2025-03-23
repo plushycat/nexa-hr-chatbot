@@ -68,16 +68,9 @@ nexa-hr-chatbot/
 
 ## Demo Video
 
-Watch the demo tutorial video, to see NEXA in action:
-
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/2PTAVqWwaKY" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        allowfullscreen>
-</iframe>
-
+Watch the demo tutorial video, to see [![NEXA in action!](https://img.youtube.com/vi/2PTAVqWwaKY/0.jpg)](https://www.youtube.com/watch?v=2PTAVqWwaKY)
+:
+https://github.com/user-attachments/assets/de4e0c95-231b-4618-9dea-3b9c900d6803
 ---
 
 ## Configuration
